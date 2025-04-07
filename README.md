@@ -159,6 +159,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
 - [Uncategorized](#uncategorized)
+  - [CodeMic](#codemic)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
   - [Code Time](#code-time)
@@ -1034,6 +1035,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 # Uncategorized
+
+## [CodeMic](https://marketplace.visualstudio.com/items?itemName=ComputingDen.codemic)
+
+> Record and replay coding tutorials *inside* VSCode with audio/video guide and workspace sync.
+
+![CodeMic](https://raw.githubusercontent.com/computing-den/CodeMic/refs/heads/master/doc/CodeMic-screenshot.jpg)
 
 ## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
