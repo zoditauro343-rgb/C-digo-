@@ -62,6 +62,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [markdownlint](#markdownlint)
     - [Markdown All in One](#markdown-all-in-one)
     - [Markdown Emoji](#markdown-emoji)
+    - [MEO](#meo)
   - [PHP](#php)
     - [PHP Tools](#php-tools)
     - [IntelliSense](#intellisense)
@@ -502,6 +503,12 @@ With MATLAB installed:
 > Adds emoji syntax support to VS Code's built-in Markdown preview
 
 ![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
+
+### [MEO](https://marketplace.visualstudio.com/items?itemName=vadimmelnicuk.meo)
+
+> A proper Markdown live editing mode for VS Code. Adds a live/source toggle in a single tab, a floating formatting toolbar, inline table editing, full-screen Mermaid diagram rendering, and a document outline sidebar — without leaving VS Code or opening a split pane.
+
+![MEO](https://github.com/vadimmelnicuk/meo/blob/ed165a91abd5338ad940487e59325c3331bec21b/demo.gif?raw=1)
 
 ## PHP
 
