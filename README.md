@@ -85,6 +85,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [GitHub Repositories](#github-repositories)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
 - [Productivity](#productivity)
+  - [Argus - Claude Code Session Debugger](#argus---claude-code-session-debugger)
   - [ARM Template Viewer](#arm-template-viewer)
   - [Azure Cosmos DB](#azure-cosmos-db)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
@@ -634,6 +635,18 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 # Productivity
+
+## [Argus - Claude Code Session Debugger](https://github.com/yessGlory17/argus)
+
+> Analyze and debug Claude Code sessions with detailed insights, performance metrics, and cost tracking. Monitor your AI-assisted development workflow, track token usage, identify optimization opportunities, and gain visibility into your Claude Code interactions with comprehensive analytics and visual reports.
+
+![Session Analysis](https://raw.githubusercontent.com/yessGlory17/argus/main/screenshots/analysis.png)
+
+![Cost Tracking](https://raw.githubusercontent.com/yessGlory17/argus/main/screenshots/cost.png)
+
+![Performance Metrics](https://raw.githubusercontent.com/yessGlory17/argus/main/screenshots/performance.png)
+
+![Insights Dashboard](https://raw.githubusercontent.com/yessGlory17/argus/main/screenshots/insights.png)
 
 ## [ARM Template Viewer](https://marketplace.visualstudio.com/items?itemName=bencoleman.armview)
 
