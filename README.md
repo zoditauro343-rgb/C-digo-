@@ -139,6 +139,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [WakaTime](#wakatime)
   - [Yo](#yo)
   - [Timing](#timing)
+  - [Codebrief](#codebrief)
 - [Formatting & Beautification](#formatting--beautification)
   - [Better Align](#better-align)
   - [Auto Rename Tag](#auto-rename-tag)
@@ -937,6 +938,10 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ## [Timing](https://marketplace.visualstudio.com/items?itemName=HaaLeo.timing)
 
 > Time converter extension to convert timestamps from/to various formats and insert them on demand or just display them. It further provides a neat hover provider to beautify epoch timestamps instantly. All features are highly customizable.
+
+## [Codebrief](https://marketplace.visualstudio.com/items?itemName=MoNazim.codebrief)
+
+> Codebrief explains the intent behind your AI-generated code changes by gaining context from your coding session — grouping them logically so you can review with ease.
 
 ![Timing](https://raw.githubusercontent.com/HaaLeo/vscode-timing/master/doc/Convert_Sample.gif)
 
